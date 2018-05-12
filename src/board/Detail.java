@@ -9,6 +9,7 @@ import model.DAO;
 
 public class Detail implements Action {
 
+	//hihi
 	@Override
 	public ActionData execute(HttpServletRequest request, HttpServletResponse response) {
 		int id = Integer.parseInt(request.getParameter("id"));
