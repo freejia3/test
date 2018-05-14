@@ -24,7 +24,7 @@ import model.ActionData;
 public class F_Controller extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-	//오늘은 토요일인데... 자고싶다.
+	//오늘은 토요일인데... 자고싶다.asdfadsf
 	///자고싶다고!!
 	
     /**
